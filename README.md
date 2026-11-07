@@ -25,7 +25,8 @@ The best score is saved when a game ends or pauses. If the app loses the screen 
 
 ## Store listing
 
-Category: Games. Type: Watch App. Icon: `docs/store/icon-500.png`. Hero image: `screenshots/store/hero-1440x720.png`.
+Category: Games. Type: Watch App. Icon: `docs/store/icon-500.png`. Cover image (web/mobile, 500 × 500):
+`screenshots/store/cover-500x500.png`. Hero image: `screenshots/store/hero-1440x720.png`.
 Screenshots: `screenshots/store/1-start.png` to `4-best.png` (720 × 720), designed on the Garmin Watch Games canvas
 from the simulator captures in `screenshots/fr965/`.
 
