@@ -1,0 +1,2 @@
+# Layered over monkey.jungle by tools/screenshots.py: builds the app with the screenshot tour.
+base.excludeAnnotations = notour

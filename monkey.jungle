@@ -1,0 +1,9 @@
+project.manifest = manifest.xml
+
+# The screenshot tour is only built by tools/screenshots.py (tools/tour.jungle).
+base.excludeAnnotations = tour
+
+# Per-screen resources (bitmap fonts, launcher icon) live in resources-<device family>/.
+# The compiler adds the folder matching each product's device family automatically, on top of resources/.
+# Every supported family has its own folder, so a product with an unsupported screen fails at build time
+# (missing Rez.Fonts) instead of shipping with mis-scaled glyphs.

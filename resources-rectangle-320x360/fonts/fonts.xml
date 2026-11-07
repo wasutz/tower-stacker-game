@@ -1,0 +1,12 @@
+<fonts>
+    <font id="Title" filename="title.fnt" antialias="true"/>
+    <font id="Record" filename="record.fnt" antialias="true"/>
+    <font id="Prompt" filename="prompt.fnt" antialias="true"/>
+    <font id="Score" filename="score.fnt" antialias="true"/>
+    <font id="Caption" filename="caption.fnt" antialias="true"/>
+    <font id="Best" filename="best.fnt" antialias="true"/>
+    <font id="Verdict" filename="verdict.fnt" antialias="true"/>
+    <font id="Hero" filename="hero.fnt" antialias="true"/>
+    <font id="Unit" filename="unit.fnt" antialias="true"/>
+    <font id="Hint" filename="hint.fnt" antialias="true"/>
+</fonts>

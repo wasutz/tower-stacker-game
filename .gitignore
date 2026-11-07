@@ -1,0 +1,8 @@
+bin/
+.venv/
+developer_key.der
+developer_key.pem
+*.prg.debug.xml
+.DS_Store
+__pycache__/
+.claude/

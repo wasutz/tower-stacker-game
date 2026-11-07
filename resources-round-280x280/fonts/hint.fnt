@@ -1,0 +1,21 @@
+info face="Tower-hint" size=15 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=2,2
+common lineHeight=15 base=12 scaleW=64 scaleH=29 pages=1 packed=0
+page id=0 file="hint.png"
+chars count=17
+char id=83 x=5 y=0 width=8 height=8 xoffset=0 yoffset=4 xadvance=7 page=0 chnl=15
+char id=84 x=15 y=0 width=6 height=8 xoffset=1 yoffset=4 xadvance=7 page=0 chnl=15
+char id=65 x=23 y=0 width=8 height=8 xoffset=0 yoffset=4 xadvance=8 page=0 chnl=15
+char id=82 x=33 y=0 width=8 height=8 xoffset=0 yoffset=4 xadvance=8 page=0 chnl=15
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=12 xadvance=3 page=0 chnl=15
+char id=114 x=40 y=11 width=5 height=6 xoffset=0 yoffset=6 xadvance=5 page=0 chnl=15
+char id=101 x=47 y=11 width=7 height=6 xoffset=0 yoffset=6 xadvance=7 page=0 chnl=15
+char id=116 x=43 y=0 width=5 height=8 xoffset=1 yoffset=4 xadvance=6 page=0 chnl=15
+char id=121 x=50 y=0 width=7 height=8 xoffset=0 yoffset=6 xadvance=7 page=0 chnl=15
+char id=66 x=0 y=11 width=8 height=8 xoffset=0 yoffset=4 xadvance=8 page=0 chnl=15
+char id=67 x=10 y=11 width=8 height=8 xoffset=0 yoffset=4 xadvance=8 page=0 chnl=15
+char id=75 x=20 y=11 width=8 height=8 xoffset=0 yoffset=4 xadvance=7 page=0 chnl=15
+char id=113 x=30 y=11 width=8 height=8 xoffset=0 yoffset=6 xadvance=8 page=0 chnl=15
+char id=117 x=0 y=21 width=7 height=6 xoffset=0 yoffset=6 xadvance=7 page=0 chnl=15
+char id=105 x=0 y=0 width=3 height=9 xoffset=0 yoffset=3 xadvance=3 page=0 chnl=15
+char id=115 x=9 y=21 width=6 height=6 xoffset=0 yoffset=6 xadvance=6 page=0 chnl=15
+char id=109 x=17 y=21 width=11 height=6 xoffset=0 yoffset=6 xadvance=10 page=0 chnl=15
