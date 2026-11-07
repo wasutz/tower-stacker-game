@@ -1,6 +1,6 @@
 # Store listing
 
-Text for the Connect IQ Store. Icon: `docs/store/icon-500.png`. Screenshots: `screenshots/fr965/` (AMOLED) and
+Text for the Connect IQ Store. Icon: `docs/store/icon-500.png`. Hero: `screenshots/store/hero-1440x720.png`. Screenshots: `screenshots/store/` (designed), `screenshots/fr965/` (AMOLED) and
 `screenshots/fenix7/` (MIP). Category: Games. Type: Watch App.
 
 **Title**

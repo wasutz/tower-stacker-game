@@ -23,6 +23,31 @@ have narrowed the tower. Speed starts at 80 px/s and rises by 3 px/s per floor u
 
 The best score is saved when a game ends or pauses. If the app loses the screen mid-game, the game waits paused.
 
+## Store listing
+
+Category: Games. Type: Watch App. Icon: `docs/store/icon-500.png`. Hero image: `screenshots/store/hero-1440x720.png`.
+Screenshots: `screenshots/store/1-start.png` to `4-best.png` (720 × 720), designed on the Garmin Watch Games canvas
+from the simulator captures in `screenshots/fr965/`.
+
+**Title**
+
+Tower
+
+**Description**
+
+A floor slides back and forth; press START to drop it on the stack. Any overhang gets cut off, so the tower gets
+narrower until you miss. The floor speeds up with every level.
+
+Land a floor perfectly on the one below and the tower wins back some of its width. On touch screens, tap anywhere to
+drop. The watch ticks for every floor placed, twice for a perfect one.
+
+- Press BACK to pause, then BACK again to quit
+- Your best tower is saved on the watch
+- No phone connection, no permissions, no ads
+
+Uses the Space Grotesk typeface, © 2020 The Space Grotesk Project Authors, licensed under the SIL Open Font
+License 1.1.
+
 ## Project layout
 
 ```
@@ -51,7 +76,7 @@ tools/
   sync_products.py          manifest product list from the installed SDK devices
   screenshots.py            captures every screen from the simulator
 docs/store/                 store listing text and icon
-screenshots/                simulator captures per device, for the store listing
+screenshots/                simulator captures per device; store/ holds the designed hero and store screenshots
 LICENSES/                   font licence
 ```
 
