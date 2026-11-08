@@ -47,7 +47,10 @@ case "${1:-}" in
         out="$ROOT/bin/Tower-test-$device.prg"
         compile -o "$out" -d "$device" --unit-test
         ensure_simulator
-        "$SDK_HOME/bin/monkeydo" "$out" "$device" -t
+        # monkeydo exits 1 whatever the outcome, so the verdict comes from its summary line.
+        log="$ROOT/bin/Tower-test-$device.log"
+        "$SDK_HOME/bin/monkeydo" "$out" "$device" -t | tee "$log" || true
+        grep -q '^PASSED' "$log"
         exit 0
         ;;
 esac
